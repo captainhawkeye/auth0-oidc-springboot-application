@@ -7,9 +7,9 @@ spring:
       client:
         registration:
           auth0:
-            client-id: GIWizURkG8kZnwGp3vvF4yZJElbNiIWv
-            client-secret: -xZHtHAT1wMp2UkjdMZo0TX9fK9rNQEmh6Pah3udQ0M-br44FGaapq8ykF9ahTpW
+            client-id: <>
+            client-secret: <>
             scope: openid+profile+email
         provider:
           auth0:
-            issuer-uri: https://captainhawkeye.us.auth0.com/
+            issuer-uri: <>
